@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm G.Patel
+# 💫 Hi 👋, I'm Guddu
 **A passionate Full Stack Developer || Developer|| from India**
 
 Email Me 👉 ✉️ **gk1156438@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **gk1156438@gmail.com** For Collaboration/Project or Anythi
 - 🤔 **I’m looking for help with:** Resume screening
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** gk1156438@gmail.com
-- 😄 **Pronouns:** G.Ptael
+- 😄 **Pronouns:** Guddu kr.
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guddupatel7584) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@G.Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gk1156438@gmail.com) 
